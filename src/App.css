@@ -5,6 +5,7 @@
 
 .card{
   background-color: aqua;
+  list-style: none;
 }
 
 .input-container{

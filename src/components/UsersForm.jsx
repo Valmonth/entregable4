@@ -16,8 +16,8 @@ const UsersForm = ({
 
   useEffect(() => {
     if (userSelected !== null) {
-      setFirstName(userSelected.firstName);
-      setLastName(userSelected.lastName);
+      setFirstName(userSelected.first_name);
+      setLastName(userSelected.last_name);
       setBirthday(userSelected.birthday);
       setEmail(userSelected.email);
       setPassword(userSelected.password);
