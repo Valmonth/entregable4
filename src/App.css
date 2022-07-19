@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  
+}
+
+.card{
+  background-color: aqua;
+}
+
+.input-container{
+  margin: 20px;
+  
+}
+
+.label{
+  font-size: 18px;
+  margin: 5px;
+}
+.forms{
+  background-color: rgb(212, 212, 212);
+  border: 2px solid firebrick;
+  padding: 10px;
+}
